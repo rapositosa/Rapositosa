@@ -8,6 +8,5 @@
 <div align="center">
   <h2><a href="https://pawsy.gay/">Pawsy</a> • <a href="https://raposyxz.fun/">Raposyxz</a></h2>
 </div>
-
 <br/>
 
