@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="140">
-  <img src="https://cdn.discordapp.com/avatars/1117890204569718885/da1ff7c3012fea0ebe5bca0fe2e2c349.png?size=4096" width="120" style="border-radius:50%"/>
+  <img src="https://r2.presencedb.com/avatars/1117890204569718885/538562729f8be19969557868ef5ef765" width="120" style="border-radius:50%"/>
 </td>
 <td>
   <h2>rapositosa</h2>
