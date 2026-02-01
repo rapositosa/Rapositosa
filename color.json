@@ -1,6 +1,6 @@
- {
-  "name": "Meu tema",
-  "description": "Custom: primary, secondary, danger e success",
+{
+  "name": "Apenas Botões Custom",
+  "description": "Cores aplicadas apenas nos elementos de botões.",
   "version": "1",
   "authors": [
     {
@@ -10,20 +10,23 @@
   ],
   "semanticColors": {
     "BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
-    "BUTTON_POSITIVE_BACKGROUND_HOVER": ["#6eb88d"],
-    "BUTTON_POSITIVE_BACKGROUND_ACTIVE": ["#5aa67a"],
-
+    "REDESIGN_BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
+    
     "BUTTON_DANGER_BACKGROUND": ["#f6b553"],
-    "BUTTON_DANGER_BACKGROUND_HOVER": ["#e2a442"],
-    "BUTTON_DANGER_BACKGROUND_ACTIVE": ["#cf9331"],
-
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#f6b553"],
+    
     "BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
-    "BUTTON_PRIMARY_BACKGROUND_HOVER": ["#7a7cbc"],
-    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": ["#686aa9"],
-
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
+    
     "BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
-    "BUTTON_SECONDARY_BACKGROUND_HOVER": ["#e8d9d2"],
-    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": ["#d7c8c1"]
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#f9eae3"]
+  },
+  "rawColors": {
+    "GREEN_500": "#82caa0",
+    "RED_500": "#f6b553",
+    "BRAND_500": "#8c8ede",
+    "PRIMARY_500": "#f9eae3"
   },
   "spec": 2
 }
