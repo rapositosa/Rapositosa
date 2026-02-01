@@ -1,32 +1,33 @@
- {
-  "name": "Apenas Botões Custom",
-  "description": "Cores aplicadas apenas nos elementos de botões.",
+{
+  "name": "Apenas Botões Fix",
+  "description": "Focado estritamente em botões, sem alterar textos.",
   "version": "1",
-  "authors": [
-    {
-      "name": "rapositosa",
-      "id": "000000000000000000"
-    }
-  ],
+  "authors": [{ "name": "rapositosa" }],
   "semanticColors": {
     "BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
+    "BUTTON_POSITIVE_BACKGROUND_HOVER": ["#82caa0"],
+    "BUTTON_POSITIVE_BACKGROUND_ACTIVE": ["#82caa0"],
     "REDESIGN_BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
-    
+
     "BUTTON_DANGER_BACKGROUND": ["#f6b553"],
+    "BUTTON_DANGER_BACKGROUND_HOVER": ["#f6b553"],
+    "BUTTON_DANGER_BACKGROUND_ACTIVE": ["#f6b553"],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#f6b553"],
-    
+
     "BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": ["#8c8ede"],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": ["#8c8ede"],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
-    
+
     "BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": ["#f9eae3"],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": ["#f9eae3"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#f9eae3"]
   },
   "rawColors": {
-    "GREEN_500": "#82caa0",
-    "RED_500": "#f6b553",
-    "BRAND_500": "#8c8ede",
-    "PRIMARY_500": "#f9eae3"
+    "WHITE_500": "#ffffff",
+    "PRIMARY_660": "#232428"
   },
   "spec": 2
 }
