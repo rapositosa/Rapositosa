@@ -1,6 +1,6 @@
 {
-  "name": "Meu tema - Botões Custom",
-  "description": "Focado na customização de botões e status.",
+  "name": "Meu Tema",
+  "description": "Customizados: Success, Danger, Primary e Secondary",
   "version": "1",
   "authors": [
     {
@@ -12,59 +12,43 @@
     "STATUS_POSITIVE": ["#82caa0"],
     "STATUS_POSITIVE_BACKGROUND": ["#82caa0"],
     "BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
-    "POLLS_VICTOR_FILL": ["#82caa080"],
     "BACKGROUND_MODIFIER_ACCEPT": ["#82caa033"],
-    "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#82caa04d"],
     
-    "STATUS_DANGER": ["#ff9195"],
-    "STATUS_DANGER_BACKGROUND": ["#ff9195"],
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#ff9195"],
-    "STATUS_DANGER_TEXT": ["#2b2d31"],
-
-    "INTERACTIVE_ACTIVE": ["#5865f2"],
-    "BACKGROUND_ACCENT": ["#5865f2"],
+    "STATUS_DANGER": ["#f6b553"],
+    "STATUS_DANGER_BACKGROUND": ["#f6b553"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#f6b553"],
     
-    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": ["#fff06633"],
-    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": ["#fff0664d"]
+    "BACKGROUND_ACCENT": ["#8c8ede"],
+    "BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
+    "INTERACTIVE_ACTIVE": ["#8c8ede"],
+    "TEXT_LINK": ["#8c8ede"],
+    
+    "BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#f9eae3"]
   },
   "rawColors": {
     "GREEN_260": "#82caa0",
-    "GREEN_300": "#82caa0",
-    "GREEN_330": "#82caa0",
-    "GREEN_345": "#82caa0",
     "GREEN_360": "#82caa0",
-    "GREEN_400": "#82caa0",
     "GREEN_430": "#82caa0",
-    "GREEN_460": "#82caa0",
     "GREEN_500": "#82caa0",
-    "GREEN_530": "#82caa0",
-    "GREEN_560": "#82caa0",
     "GREEN_600": "#82caa0",
-    "GREEN_630": "#82caa0",
-    "GREEN_660": "#82caa0",
-    "GREEN_700": "#82caa0",
     
-    "RED_260": "#ff9195",
-    "RED_300": "#ff9195",
-    "RED_330": "#ff9195",
-    "RED_345": "#ff9195",
-    "RED_360": "#ff9195",
-    "RED_400": "#ff9195",
-    "RED_430": "#ff9195",
-    "RED_460": "#ff9195",
-    "RED_500": "#ff9195",
-    "RED_530": "#ff9195",
-    "RED_560": "#ff9195",
-    "RED_600": "#ff9195",
-    "RED_630": "#ff9195",
-    "RED_660": "#ff9195",
-    "RED_700": "#ff9195",
+    "RED_360": "#f6b553",
+    "RED_400": "#f6b553",
+    "RED_430": "#f6b553",
+    "RED_500": "#f6b553",
+    "RED_560": "#f6b553",
     
-    "ORANGE_260": "#fff066",
-    "ORANGE_300": "#fff066",
-    "ORANGE_500": "#fff066",
-    "YELLOW_300": "#fff066",
-    "YELLOW_500": "#fff066"
+    "BRAND_260": "#8c8ede",
+    "BRAND_360": "#8c8ede",
+    "BRAND_500": "#8c8ede",
+    "BRAND_560": "#8c8ede",
+    "BRAND_600": "#8c8ede",
+    
+    "PRIMARY_400": "#f9eae3",
+    "PRIMARY_500": "#f9eae3",
+    "PRIMARY_600": "#f9eae3"
   },
   "plus": {
     "version": "0",
