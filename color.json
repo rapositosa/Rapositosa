@@ -1,6 +1,6 @@
 {
-  "name": "Meu Tema",
-  "description": "Customizados: Success, Danger, Primary e Secondary",
+  "name": "Meu tema",
+  "description": "Custom: primary, secondary, danger e success",
   "version": "1",
   "authors": [
     {
@@ -9,51 +9,21 @@
     }
   ],
   "semanticColors": {
-    "STATUS_POSITIVE": ["#82caa0"],
-    "STATUS_POSITIVE_BACKGROUND": ["#82caa0"],
     "BUTTON_POSITIVE_BACKGROUND": ["#82caa0"],
-    "BACKGROUND_MODIFIER_ACCEPT": ["#82caa033"],
-    
-    "STATUS_DANGER": ["#f6b553"],
-    "STATUS_DANGER_BACKGROUND": ["#f6b553"],
-    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#f6b553"],
-    
-    "BACKGROUND_ACCENT": ["#8c8ede"],
+    "BUTTON_POSITIVE_BACKGROUND_HOVER": ["#6eb88d"],
+    "BUTTON_POSITIVE_BACKGROUND_ACTIVE": ["#5aa67a"],
+
+    "BUTTON_DANGER_BACKGROUND": ["#f6b553"],
+    "BUTTON_DANGER_BACKGROUND_HOVER": ["#e2a442"],
+    "BUTTON_DANGER_BACKGROUND_ACTIVE": ["#cf9331"],
+
     "BUTTON_PRIMARY_BACKGROUND": ["#8c8ede"],
-    "INTERACTIVE_ACTIVE": ["#8c8ede"],
-    "TEXT_LINK": ["#8c8ede"],
-    
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": ["#7a7cbc"],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": ["#686aa9"],
+
     "BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#f9eae3"],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#f9eae3"]
-  },
-  "rawColors": {
-    "GREEN_260": "#82caa0",
-    "GREEN_360": "#82caa0",
-    "GREEN_430": "#82caa0",
-    "GREEN_500": "#82caa0",
-    "GREEN_600": "#82caa0",
-    
-    "RED_360": "#f6b553",
-    "RED_400": "#f6b553",
-    "RED_430": "#f6b553",
-    "RED_500": "#f6b553",
-    "RED_560": "#f6b553",
-    
-    "BRAND_260": "#8c8ede",
-    "BRAND_360": "#8c8ede",
-    "BRAND_500": "#8c8ede",
-    "BRAND_560": "#8c8ede",
-    "BRAND_600": "#8c8ede",
-    
-    "PRIMARY_400": "#f9eae3",
-    "PRIMARY_500": "#f9eae3",
-    "PRIMARY_600": "#f9eae3"
-  },
-  "plus": {
-    "version": "0",
-    "iconPack": "default",
-    "customOverlays": false
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": ["#e8d9d2"],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": ["#d7c8c1"]
   },
   "spec": 2
 }
