@@ -16,7 +16,7 @@
 ---
 
 ### [**Kaiane**](https://discord.com/users/896284872438591508)
-<img src="https://cdn.discordapp.com/avatars/896284872438591508/a_788740e212a60cf73d867ae3e4f99c54.png?size=4096&animated=true" width="80" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/rapositosa/yiff.gay/refs/heads/main/cdn/kaiane.png" width="80" style="border-radius:50%"/>
 
 🐇 App do Discord.  
 🆔 896284872438591508  
