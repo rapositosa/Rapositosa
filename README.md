@@ -1,6 +1,4 @@
 
-![Banner](https://cdn.discordapp.com/banners/1117890204569718885/d69642c49fd88e9cd03e575aa1e1ec42.png?size=4096)
-
 <table>
 <tr>
 <td width="140">
