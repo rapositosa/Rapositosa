@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td width="140">
-  <img src="https://avatars.githubusercontent.com/u/144982981?v=4&size=2048" width="120" style="border-radius:50%"/>
+  <img src="https://avatars.githubusercontent.com/u/144982981?v=4&size=2048" width="120" style="border-radius:100%"/>
 </td>
 <td>
   <h2>rapositosa</h2>
